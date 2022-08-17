@@ -30,7 +30,5 @@ print(re.findall(pattern, all_text))
 for match in re.finditer(pattern,all_text):
     print(match)
 
-
-print('\n HELLLLLLLLLLLLLLLLLLLLLLLLL \n JJJJJJJJJ \n')
 print(all_text[4285: 42948])
 
